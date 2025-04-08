@@ -1,9 +1,14 @@
 
-# Logitech MX Master 3S Setup
+# Logitech MX Master 3S Setup pre Pop!_OS
 
 Toto je môj jednoduchý setup pre myšku **Logitech MX Master 3S**. Obsahuje základné nastavenia a prispôsobené akcie pre tlačidlá, ktoré mi pomáhajú pri každodennej práci.
 
 ---
+
+## OS
+**Pop!_OS 22.04 LTS**
+**Gnome:** 42.9
+**Windowing System:** X11
 
 ## Nastavenia
 
